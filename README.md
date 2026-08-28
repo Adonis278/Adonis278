@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building intelligent systems that scale—and expanding who technology is built for.
+  Building intelligent systems that scale, and expanding who technology is built for.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ I am a Zimbabwean-born engineer working at the intersection of **agentic AI, clo
 
 My journey began far from the traditional path into big tech. Before engineering, I competed as a tennis player for Zimbabwe. That experience taught me how to learn under pressure, recover quickly, and keep building when the outcome is uncertain. I carried that mindset into computer science, graduated with a **4.0 GPA**, and went on to build technology at **Amazon Web Services, Bank of America, and EY**.
 
-Today, I design cloud-native AI systems and products that make complex technology useful to real people—especially learners, small businesses, and communities that are too often designed around last.
+Today, I design cloud-native AI systems and products that make complex technology useful to real people, especially learners, small businesses, and communities that are too often designed around last.
 
 > My goal is not to build AI that replaces human capability. I build systems that expand it.
 
@@ -40,7 +40,7 @@ Today, I design cloud-native AI systems and products that make complex technolog
 | **EDITH Evolution** | Enterprise multi-agent knowledge and document-review platform built at AWS; reduced weekly administrative work by **20%** and accelerated validation by **40%** | Amazon Bedrock, Strands Agents, Lambda, S3, DynamoDB, OpenSearch |
 | **[Tinker](https://github.com/Adonis278/Tinker)** · [Live](https://tinkersas.web.app) | AI tutor that guides learners without simply handing them answers; adapts explanations to their language and interests | Next.js, Firebase, LLM APIs |
 | **CivicLens AI** · [Live](https://civic-lens-ai7.lovable.app/) | Makes complex government information easier to understand through plain language, translation, audio, and accessibility features; **2nd place, InternXL AI Innovation Challenge** | React, Firebase, LLM APIs, TTS |
-| **[Bloom](https://github.com/Adonis278/Bloom-ABA)** · [Live](https://bloom-aba.web.app) | Privacy-conscious task-initiation support that detects when a student may be stuck using interaction timing—not the content they type | React, Firebase, Cloud Functions |
+| **[Bloom](https://github.com/Adonis278/Bloom-ABA)** · [Live](https://bloom-aba.web.app) | Privacy-conscious task-initiation support that detects when a student may be stuck using interaction timing, not the content they type | React, Firebase, Cloud Functions |
 | **[WealthBridge](https://github.com/Adonis278/WealthBridge)** · [Live](https://wealthbridge.web.app) | Financial-learning platform that turns transaction data into understandable insights while protecting sensitive information | Next.js, TypeScript, Firebase |
 | **RemiBand** | AI-enabled wound-monitoring wearable created to help patients stay ahead of complications; **Propel Future of Tech finalist** | Sensors, cloud telemetry, AI, Apple Health |
 
@@ -48,13 +48,13 @@ Today, I design cloud-native AI systems and products that make complex technolog
 
 ## Experience
 
-**Amazon Web Services — Solutions Architect Intern**  
+**Amazon Web Services ,  Solutions Architect Intern**  
 Designed and shipped a Slack-integrated, cloud-native AI platform using Amazon Bedrock and serverless AWS services. Built the agent orchestration, ingestion pipeline, monitoring, and deployment architecture behind the system.
 
-**Bank of America — Software Engineering Intern**  
+**Bank of America ,  Software Engineering Intern**  
 Developed Java and Spring Boot services, strengthened automated testing with JUnit and Mockito, and used Python automation to improve a recurring reporting workflow by **30%**.
 
-**EY — FSO Technology Consultant Intern**  
+**EY ,  FSO Technology Consultant Intern**  
 Worked with financial-services technology teams across cloud operations, data analysis, and applied machine learning.
 
 ## Technical toolkit
