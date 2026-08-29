@@ -1,7 +1,7 @@
 <h1 align="center">J'erome Adonis</h1>
 
 <p align="center">
-  <strong>AI Engineer · Cloud Architect · Builder from Zimbabwe 🇿🇼</strong>
+  <strong>AI Engineer · Founder · Cloud Architect</strong>
 </p>
 
 <p align="center">
@@ -16,19 +16,18 @@
 
 ---
 
-## From Zimbabwe to building in the cloud
-
+## About Me
 I am a Zimbabwean-born engineer working at the intersection of **agentic AI, cloud architecture, and human-centered product development**.
 
 My journey began far from the traditional path into big tech. Before engineering, I competed as a tennis player for Zimbabwe. That experience taught me how to learn under pressure, recover quickly, and keep building when the outcome is uncertain. I carried that mindset into computer science, graduated with a **4.0 GPA**, and went on to build technology at **Amazon Web Services, Bank of America, and EY**.
 
-Today, I design cloud-native AI systems and products that make complex technology useful to real people, especially learners, small businesses, and communities that are too often designed around last.
+Today, I design cloud-native AI systems and products that make complex technology useful to real people, especially learners, small businesses, and communities that are too often left behind.
 
 > My goal is not to build AI that replaces human capability. I build systems that expand it.
 
 ## What I build
 
-- **Agentic AI:** multi-agent workflows, tool-using assistants, retrieval, evaluation, and responsible automation
+- **Agentic AI:** multi-agent workflows, RAG pipelines, evaluation, and responsible automation
 - **Cloud systems:** serverless and event-driven architectures designed for scale, resilience, and observability
 - **Full-stack products:** accessible experiences that connect strong engineering to a clear human need
 - **Technology for overlooked communities:** financial access, education, healthcare, accessibility, and African markets
@@ -80,7 +79,7 @@ I care deeply about building pathways for other students from HBCUs, Africa, and
 
 ## Currently exploring
 
-- Trustworthy agentic systems for cybersecurity and regulated environments
+- Applied Research in Trustworthy agentic systems for cybersecurity and regulated environments
 - AI that remains useful across low-bandwidth, multilingual, and shared-device contexts
 - Human-centered automation that protects agency, privacy, and understanding
 - Cloud and AI engineering roles where architecture meets measurable impact
