@@ -1,152 +1,95 @@
+<h1 align="center">J'erome Adonis</h1>
+
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="J'erome Adonis, AI Engineer, Cloud Architect, and Founder" width="100%" />
+  <strong>AI Engineer · Founder · Cloud Architect</strong>
 </p>
 
 <p align="center">
-  <a href="https://jeromeadoniszw.web.app">Portfolio</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://spiritustec.com">Spiritus</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  Building intelligent systems that scale, and expanding who technology is built for.
+</p>
+
+<p align="center">
+  <a href="https://jeromeadoniszw.web.app">Portfolio</a> ·
+  <a href="https://spiritustec.com">Spiritus</a> ·
   <a href="https://www.linkedin.com/in/jeromeadonis">LinkedIn</a>
 </p>
 
-<br>
+---
 
-## Hello, I'm J'erome.
+## About Me
+I am a Zimbabwean-born engineer working at the intersection of **agentic AI, cloud architecture, and human-centered product development**.
 
-I am a Zimbabwean-born engineer building at the intersection of **agentic AI, cloud architecture, and human-centered products**.
+My journey began far from the traditional path into big tech. Before engineering, I competed as a tennis player for Zimbabwe. That experience taught me how to learn under pressure, recover quickly, and keep building when the outcome is uncertain. I carried that mindset into computer science, graduated with a **4.0 GPA**, and went on to build technology at **Amazon Web Services, Bank of America, and EY**.
 
-Before engineering, I competed as a tennis player for Zimbabwe. I brought the same discipline into computer science, graduated with a **4.0 GPA**, and built technology at **AWS, Bank of America, and EY**.
+Today, I design cloud-native AI systems and products that make complex technology useful to real people, especially learners, small businesses, and communities that are too often left behind.
 
-I now create intelligent systems that make complex technology useful to real people, with a particular focus on learners, small businesses, African markets, and communities often left out of the design process.
+> My goal is not to build AI that replaces human capability. I build systems that expand it.
 
-> I do not build AI to replace human capability. I build systems that expand it.
+## What I build
 
-<br>
+- **Agentic AI:** multi-agent workflows, RAG pipelines, evaluation, and responsible automation
+- **Cloud systems:** serverless and event-driven architectures designed for scale, resilience, and observability
+- **Full-stack products:** accessible experiences that connect strong engineering to a clear human need
+- **Technology for overlooked communities:** financial access, education, healthcare, accessibility, and African markets
 
-## My work, in four words
+## Selected work
 
-| **Intelligent** | **Scalable** | **Human** | **Accessible** |
-|:---:|:---:|:---:|:---:|
-| AI agents that reason and act | Cloud systems built to grow | Products shaped around real behavior | Technology designed beyond the default user |
+| Project | Why it matters | Stack |
+| --- | --- | --- |
+| **EDITH Evolution** | Enterprise multi-agent knowledge and document-review platform built at AWS; reduced weekly administrative work by **20%** and accelerated validation by **40%** | Amazon Bedrock, Strands Agents, Lambda, S3, DynamoDB, OpenSearch, Claude sonnet API |
+| **[Tinker](https://github.com/Adonis278/Tinker)** · [Live](https://tinkersas.web.app) | AI tutor that guides learners without simply handing them answers; adapts explanations to their language and interests | Next.js, Firebase, NVIDIA APIs |
+| **CivicLens AI** · [Live](https://civic-lens-ai7.lovable.app/) | Makes complex government information easier to understand through plain language, translation, audio, and accessibility features; **2nd place, InternXL AI Innovation Challenge** | React, Firebase, CHATGPT APIs, TTS |
+| **[Bloom](https://github.com/Adonis278/Bloom-ABA)** · [Live](https://bloom-aba.web.app) | Task-initiation support that detects when a Neurodivergent student may be stuck within their coursework | React, Firebase, Cloud Functions, NVIDIA API |
+| **[WealthBridge](https://github.com/Adonis278/WealthBridge)** · [Live](https://wealthbridge.web.app) | Financial tool that helps user build/repair their credit and learn good financial habits | Next.js, TypeScript, Firebase, ChatGPT API |
+| **RemiBand** | AI-enabled wound-monitoring wearable created to help patients stay ahead of complications; **Propel Future of Tech finalist** | Sensors, cloud telemetry, AI, Apple Health |
 
-<br>
+> **Note:** I developed EDITH during my AWS internship, and it's in production as an internal tool. Its architecture and impact are shared as a sanitized case study; proprietary code and data remain private.
 
-## Selected projects
+## Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Amazon Web Services(AWS),  Solutions Architect Intern**  
+Designed and shipped a Slack-integrated, cloud-native AI platform using Amazon Bedrock and serverless AWS services. Built the agent orchestration, ingestion pipeline, monitoring, and deployment architecture behind the system.
 
-### EDITH Evolution
+**Bank of America,  Software Engineering Intern**  
+Developed Java and Spring Boot services, strengthened automated testing with JUnit and Mockito, and used Python automation to improve a recurring reporting workflow by **30%**.
 
-Enterprise multi-agent knowledge and document review system built during my AWS internship.
+**Ernest & Young(EY),  FSO Technology Consultant Intern**  
+Worked with FSO Consulting teams to streamline billing, reduce cloud costs for an energy company, and built a machine learning model for housing in Boston, Massachusetts
 
-**Impact:** 20% less weekly admin work and 40% faster validation
+## Technical toolkit
 
-`Bedrock` `Strands Agents` `Lambda` `DynamoDB`
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, Java, TypeScript, JavaScript, SQL, C++, Bash |
+| **AI** | Amazon Bedrock, Strands Agents, LLM tool calling, RAG, prompt engineering, scikit-learn |
+| **Cloud** | AWS Lambda, S3, DynamoDB, OpenSearch, EventBridge, SNS, CloudWatch, Glue, Athena |
+| **Software** | FastAPI, Spring Boot, React, Next.js, Node.js, REST APIs, Firebase |
+| **Engineering** | Distributed systems, serverless architecture, Docker, CI/CD, testing, observability, Git |
 
-</td>
-<td width="50%" valign="top">
+## Beyond engineering
 
-### [Tinker](https://github.com/Adonis278/Tinker)
+- **President**, NSBE Livingstone Chapter
+- **Founder**, Blue Bear Hack Club
+- **HBCU Battle of the Brains Finalist**
+- **2nd Place**, InternXL AI Innovation Challenge
+- **University Innovation Fellow**, Stanford d.school
+- Former Zimbabwe national-level tennis player
 
-An AI tutor that guides students toward understanding instead of simply giving them answers.
+I care deeply about building pathways for other students from HBCUs, Africa, and communities whose talent is abundant but whose access is not.
 
-[Live product](https://tinkersas.web.app)
+## Currently exploring
 
-`Next.js` `Firebase` `NVIDIA APIs`
+- Applied Research in trustworthy agentic systems for cybersecurity and regulated environments
+- AI that remains useful across low-bandwidth, multilingual, and shared-device contexts
+- Human-centered automation that protects agency, privacy, and understanding
+- Cloud and AI engineering roles where architecture meets measurable impact
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## Let's connect
 
-### CivicLens AI
+I am always glad to meet engineers, researchers, founders, and teams working on meaningful AI and cloud systems.
 
-Makes government information easier to understand through plain language, translation, and audio.
-
-**2nd Place:** InternXL AI Innovation Challenge
-
-[Live product](https://civic-lens-ai7.lovable.app/)
-
-`React` `Firebase` `LLM APIs` `TTS`
-
-</td>
-<td width="50%" valign="top">
-
-### [Bloom](https://github.com/Adonis278/Bloom-ABA)
-
-Task initiation support for neurodivergent students who may be stuck within their coursework.
-
-[Live product](https://bloom-aba.web.app)
-
-`React` `Firebase` `Cloud Functions`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [WealthBridge](https://github.com/Adonis278/WealthBridge)
-
-Helps people understand credit, build better financial habits, and turn financial data into useful guidance.
-
-[Live product](https://wealthbridge.web.app)
-
-`Next.js` `TypeScript` `Firebase`
-
-</td>
-<td width="50%" valign="top">
-
-### RemiBand
-
-AI-enabled wound monitoring wearable designed to help patients stay ahead of complications.
-
-**Finalist:** Propel Future of Tech Challenge
-
-`Sensors` `Cloud Telemetry` `AI` `Apple Health`
-
-</td>
-</tr>
-</table>
-
-<sub>EDITH is an internal production tool developed during my AWS internship. Architecture and impact are shared as a sanitized case study. Proprietary code and data remain private.</sub>
-
-<br>
-
-## Where I have built
-
-| | Role | Focus |
-|---|---|---|
-| **AWS** | Solutions Architect Intern | Agent orchestration, serverless architecture, knowledge systems, deployment and observability |
-| **Bank of America** | Software Engineering Intern | Java services, automated testing, Python automation |
-| **EY** | FSO Technology Consultant Intern | Cloud operations, data analysis, applied machine learning |
-
-<br>
-
-## Toolkit
-
-`Python` &nbsp; `Java` &nbsp; `TypeScript` &nbsp; `JavaScript` &nbsp; `SQL` &nbsp; `C++`
-
-`Amazon Bedrock` &nbsp; `Strands Agents` &nbsp; `FastAPI` &nbsp; `Spring Boot` &nbsp; `Next.js` &nbsp; `Firebase`
-
-`Lambda` &nbsp; `S3` &nbsp; `DynamoDB` &nbsp; `OpenSearch` &nbsp; `EventBridge` &nbsp; `CloudWatch`
-
-<br>
-
-## Beyond the code
-
-**NSBE Chapter President** &nbsp;•&nbsp; **Blue Bear Hack Founder** &nbsp;•&nbsp; **HBCU Battle of the Brains Finalist**
-
-**University Innovation Fellow** &nbsp;•&nbsp; **InternXL 2nd Place Winner** &nbsp;•&nbsp; **Former Zimbabwe national-level tennis player**
-
-<br>
-
-<p align="center">
-  <strong>Building from experience. Designing for people. Scaling through technology.</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jeromeadonis">Let's connect on LinkedIn</a>
+<p>
+  <a href="https://www.linkedin.com/in/jeromeadonis"><strong>LinkedIn</strong></a> ·
+  <a href="https://jeromeadoniszw.web.app"><strong>Portfolio</strong></a> ·
+  <a href="https://spiritustec.com"><strong>Spiritus Agentic Solutions</strong></a>
 </p>
