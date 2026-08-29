@@ -36,25 +36,25 @@ Today, I design cloud-native AI systems and products that make complex technolog
 
 | Project | Why it matters | Stack |
 | --- | --- | --- |
-| **EDITH Evolution** | Enterprise multi-agent knowledge and document-review platform built at AWS; reduced weekly administrative work by **20%** and accelerated validation by **40%** | Amazon Bedrock, Strands Agents, Lambda, S3, DynamoDB, OpenSearch |
-| **[Tinker](https://github.com/Adonis278/Tinker)** · [Live](https://tinkersas.web.app) | AI tutor that guides learners without simply handing them answers; adapts explanations to their language and interests | Next.js, Firebase, LLM APIs |
-| **CivicLens AI** · [Live](https://civic-lens-ai7.lovable.app/) | Makes complex government information easier to understand through plain language, translation, audio, and accessibility features; **2nd place, InternXL AI Innovation Challenge** | React, Firebase, LLM APIs, TTS |
-| **[Bloom](https://github.com/Adonis278/Bloom-ABA)** · [Live](https://bloom-aba.web.app) | Privacy-conscious task-initiation support that detects when a student may be stuck using interaction timing, not the content they type | React, Firebase, Cloud Functions |
-| **[WealthBridge](https://github.com/Adonis278/WealthBridge)** · [Live](https://wealthbridge.web.app) | Financial-learning platform that turns transaction data into understandable insights while protecting sensitive information | Next.js, TypeScript, Firebase |
+| **EDITH Evolution** | Enterprise multi-agent knowledge and document-review platform built at AWS; reduced weekly administrative work by **20%** and accelerated validation by **40%** | Amazon Bedrock, Strands Agents, Lambda, S3, DynamoDB, OpenSearch, Claude sonnet API |
+| **[Tinker](https://github.com/Adonis278/Tinker)** · [Live](https://tinkersas.web.app) | AI tutor that guides learners without simply handing them answers; adapts explanations to their language and interests | Next.js, Firebase, NVIDIA APIs |
+| **CivicLens AI** · [Live](https://civic-lens-ai7.lovable.app/) | Makes complex government information easier to understand through plain language, translation, audio, and accessibility features; **2nd place, InternXL AI Innovation Challenge** | React, Firebase, CHATGPT APIs, TTS |
+| **[Bloom](https://github.com/Adonis278/Bloom-ABA)** · [Live](https://bloom-aba.web.app) | Task-initiation support that detects when a Neurodivergent student may be stuck within their coursework | React, Firebase, Cloud Functions, NVIDIA API |
+| **[WealthBridge](https://github.com/Adonis278/WealthBridge)** · [Live](https://wealthbridge.web.app) | Financial tool that helps user build/repair their credit and learn good financial habits | Next.js, TypeScript, Firebase, ChatGPT API |
 | **RemiBand** | AI-enabled wound-monitoring wearable created to help patients stay ahead of complications; **Propel Future of Tech finalist** | Sensors, cloud telemetry, AI, Apple Health |
 
-> **Note:** EDITH was developed during my AWS internship. Its architecture and impact are shared as a sanitized case study; proprietary code and data remain private.
+> **Note:** I developed EDITH during my AWS internship, and it's in production as an internal tool. Its architecture and impact are shared as a sanitized case study; proprietary code and data remain private.
 
 ## Experience
 
-**Amazon Web Services ,  Solutions Architect Intern**  
+**Amazon Web Services(AWS),  Solutions Architect Intern**  
 Designed and shipped a Slack-integrated, cloud-native AI platform using Amazon Bedrock and serverless AWS services. Built the agent orchestration, ingestion pipeline, monitoring, and deployment architecture behind the system.
 
-**Bank of America ,  Software Engineering Intern**  
+**Bank of America,  Software Engineering Intern**  
 Developed Java and Spring Boot services, strengthened automated testing with JUnit and Mockito, and used Python automation to improve a recurring reporting workflow by **30%**.
 
-**EY ,  FSO Technology Consultant Intern**  
-Worked with financial-services technology teams across cloud operations, data analysis, and applied machine learning.
+**Ernest & Young(EY),  FSO Technology Consultant Intern**  
+Worked with FSO Consulting teams to streamline billing, reduce cloud costs for an energy company, and built a machine learning model for housing in Boston, Massachusetts
 
 ## Technical toolkit
 
@@ -79,7 +79,7 @@ I care deeply about building pathways for other students from HBCUs, Africa, and
 
 ## Currently exploring
 
-- Applied Research in Trustworthy agentic systems for cybersecurity and regulated environments
+- Applied Research in trustworthy agentic systems for cybersecurity and regulated environments
 - AI that remains useful across low-bandwidth, multilingual, and shared-device contexts
 - Human-centered automation that protects agency, privacy, and understanding
 - Cloud and AI engineering roles where architecture meets measurable impact
