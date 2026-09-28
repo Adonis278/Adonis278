@@ -17,7 +17,7 @@
 ---
 
 ## About Me
-I am a Zimbabwean-born engineer working at the intersection of **agentic AI, cloud architecture, and human-centered product development**.
+I am an AI engineer working at the intersection of **Agentic AI, Cybersecurity, and human centered product development**.
 
 My journey began far from the traditional path into big tech. Before engineering, I competed as a tennis player for Zimbabwe. That experience taught me how to learn under pressure, recover quickly, and keep building when the outcome is uncertain. I carried that mindset into computer science, graduated with a **4.0 GPA**, and went on to build technology at **Amazon Web Services, Bank of America, and EY**.
 
